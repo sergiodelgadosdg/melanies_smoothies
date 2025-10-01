@@ -1,2 +1,7 @@
-snowflake-snowpark-python
 streamlit
+snowflake-connector-python==3.0.3
+matplotlib==3.7.1
+charset-normalizer==2.1.1
+urllib3==1.26.15
+requests
+pandas
